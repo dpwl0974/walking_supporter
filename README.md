@@ -20,16 +20,16 @@
 <br>
 
 # 시스템 상세설계
-1. 시퀀스 다이어그램
-![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/00e523b0-4b79-4ed2-a674-ed18bf091c93)
-![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/c1c5feb4-6b24-40fb-b073-42a83806b54e)
-![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/2f4a0ba1-2e62-401b-8644-d4d53a049616)
-![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/496effb7-ecf9-45d3-b72d-0033b03fda69)
+1. 시퀀스 다이어그램<br>
+![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/00e523b0-4b79-4ed2-a674-ed18bf091c93)<br>
+![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/c1c5feb4-6b24-40fb-b073-42a83806b54e)<br>
+![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/2f4a0ba1-2e62-401b-8644-d4d53a049616)<br>
+![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/496effb7-ecf9-45d3-b72d-0033b03fda69)<br>
 
 <br>
 
-2. 클래스 다이어그램
-![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/f5002a64-f87f-4873-94a8-f8bb28c54920)
+2. 클래스 다이어그램<br>
+![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/f5002a64-f87f-4873-94a8-f8bb28c54920)<br>
 
 
 <br>
