@@ -1,8 +1,12 @@
 # walking_supporter
 산책도우미_2022 - 윤예지 이선우
 
+
+
 # 시스템 구성도
 ![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/05299ae0-4fb2-41ac-9791-104fe66a2781)
+
+
 
 # UI 설계
 ![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/e9c41262-81cb-4e4a-9f09-e1e1fc342a61)
@@ -14,6 +18,9 @@
 ![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/e991f87b-bb4d-4007-af87-c0518f9a9277)
 ![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/a160ead1-5a86-4d18-8c6b-2a7f7b59525d)
 
+
+
+
 # 시스템 상세설계
 1. 시퀀스 다이어그램
 ![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/00e523b0-4b79-4ed2-a674-ed18bf091c93)
@@ -24,8 +31,17 @@
 ![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/f5002a64-f87f-4873-94a8-f8bb28c54920)
 
 
+
+
+
+
 # 시스템 파일 구조
 ![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/6c3f064b-e174-4ffb-8e0a-6592dde58357)
+
+
+
+
+
 
 # 사용자 메뉴얼
 ![image](https://github.com/dpwl0974/walking_supporter/assets/67728547/6085a212-aa99-4a9f-88a5-c0089351450e)
